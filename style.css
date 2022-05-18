@@ -1,0 +1,54 @@
+
+
+  body {
+    background-color: white;
+  }
+  h2 {
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  h3 {
+    text-align: center;
+    color: purple;}
+    span{ color: red;
+    font-size: 10pt;
+  font-family: Arial; }
+
+.myDiv {
+
+background-color: lightblue;
+width: auto; height: 200px;
+text-align: center;
+}
+input[type=button]
+{border: solid;background-color: rgb(0,230,0);}
+
+  #howtocode {
+    color: green}
+
+  .favlist{
+    text-decoration: underline; color:pink;}
+
+  #para1 {color: red}
+  .para2 {color: pink}
+
+  #div1 {background-color: white; text-align: center;width: auto; height: 300px;}
+  #div2 {background-color: yellow;  width: auto; height: 300px; align-self: auto; }
+  #div3 {background-color: black; width: auto; height: 400px; align-items: auto;}
+  #div4 {background-color: orange; width: auto; height: 400px; align-items: center;}
+
+  #div1, #div2, #div3, #div4 {border;}
+
+  table,
+  table td {
+    border: 1px solid #cccccc;
+  }
+  td {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+  }
